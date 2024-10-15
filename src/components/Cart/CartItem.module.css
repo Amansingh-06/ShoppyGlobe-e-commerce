@@ -1,0 +1,32 @@
+.cart{
+    min-height: 82vh;
+    border: 2px solid red;
+    padding: 20px;
+    padding-top: 160px;
+}
+.cart h2{
+    text-align: center;
+}
+.cart_card{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    gap:8px;
+    padding: 15px;
+    margin:5px 0px 5px 0px;
+}
+.cart_card h3{
+    margin-top: 5px;
+
+}
+.cart_card p{
+    margin-top: 5px;
+}
+.removebtn{
+    margin-top: 10px;
+    cursor: pointer;
+    padding: 3px;
+    font-size: 16px;
+}
+.removebtn:hover{
+    color: red;
+    border: 2px solid red;
+}

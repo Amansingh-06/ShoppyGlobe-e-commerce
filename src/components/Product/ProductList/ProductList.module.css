@@ -1,0 +1,34 @@
+.product_wrapper {
+    padding-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(68, 174, 232);
+    padding: 180px 20px 20px 20px;
+   
+
+
+    justify-content: center;
+    align-items: center;
+}
+
+.product_list {
+    margin-top: 20px;
+    
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    justify-content: center;
+    
+
+}
+
+.loader {
+    min-height: 65vh;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.no_products {
+    min-height: 65vh;
+}

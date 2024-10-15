@@ -1,0 +1,10 @@
+.footer_text{
+    font-size: 88px;
+    letter-spacing: 50px;
+    text-align: center;
+    color: rgb(68, 174, 232);;
+    padding: 10px;
+}
+.footer{
+    background-color: black;
+}
